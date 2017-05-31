@@ -7,6 +7,8 @@ using Eigen::MatrixXd;
 using Eigen::VectorXd;
 using namespace std;
 
+#define SMALL_FLOAT_VAL 0.0001
+
 class Tools {
 public:
   /**
